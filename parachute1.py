@@ -5,7 +5,7 @@ import svgwrite
 import numpy as np
 
 
-Dmin = 1
+Dmin = 0.5
 delta = 0.5
 Nring = 10
 Nsegment = 4
